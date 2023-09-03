@@ -19,10 +19,6 @@ Workflow for mapping TCF from the synergy of Sentinel-3, Sentinel-5P and ERA-5 t
   
   </br>
   
-  <li>  </li>
-  
-  </br>
-  
   <li> Run all the ancillary functions. </li>
   
   </br>
