@@ -19,9 +19,6 @@ Workflow for mapping TCF from the synergy of Sentinel-3, Sentinel-5P and ERA-5 t
   
   </br>
   
-  <p style="text-align:center;"> <img src="https://user-images.githubusercontent.com/8297994/219678537-e97d40d3-8825-4534-8705-b2be0e4805bb.png" alt="Repo"> </p>
-
-  
   <li>  </li>
   
   </br>
@@ -42,7 +39,7 @@ Workflow for mapping TCF from the synergy of Sentinel-3, Sentinel-5P and ERA-5 t
 
   <\br>
   
-  <p style="text-align:center;"> <img src="https://user-images.githubusercontent.com/8297994/219683269-1ad8df5b-0f00-4a10-897d-7e1c6877e9b1.png"></p> 
+  <p style="text-align:center;"> <img src="https://github.com/psreyes/TCF_mapping/blob/main/GPP_globe_figures_paper.png"></p> 
 
   </br>
   
