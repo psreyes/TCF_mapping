@@ -9,7 +9,7 @@ Workflow for mapping TCF from the synergy of Sentinel-3, Sentinel-5P and ERA-5 t
 
 <ol style='list-style-type:disc'> 
   <li> Please, click the link below to get access to the Google Colab repo (a GEE account is required): 
-    https://colab.research.google.com/drive/1ssVOAJmRuz1P44rQmABOMWuxOFboCIQZ?usp=sharing </li> or download the source code available in this site.
+    https://colab.research.google.com/drive/1ssVOAJmRuz1P44rQmABOMWuxOFboCIQZ?usp=sharing or download the source code available in this site. </li> 
   
   </br>
     
